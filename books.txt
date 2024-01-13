@@ -1,0 +1,11 @@
+5
+The Catcher in the Rye by J.D. Salinger
+0 3 1 6 7 6 9 4 8
+The Lord of the Rings by J.R.R. Tolkien
+0 5 4 4 0 0 3 4 1
+The Alchemist by Paulo Coelho
+0 0 6 2 3 1 5 0 0
+The Picture of Dorian Gray by Oscar Wilde
+0 4 8 6 2 7 8 0 7
+Pride and Prejudice by Jane Austen
+0 1 4 1 4 3 9 5 1
